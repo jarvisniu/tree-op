@@ -1,0 +1,29 @@
+{
+  "name": "tree-op",
+  "version": "0.1.0",
+  "description": "Tree operation util functions",
+  "main": "index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarvisniu/tree-op.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarvisniu/tree-op/issues"
+  },
+  "homepage": "https://github.com/jarvisniu/tree-op#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/preset-typescript": "^7.12.1",
+    "@types/jest": "^26.0.15",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
